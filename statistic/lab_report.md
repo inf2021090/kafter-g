@@ -6,6 +6,6 @@
 
 # Ασκηση
 
-![alt text]()
+![alt text](https://github.com/inf2021090/kafter-g/blob/main/statistic/images/2022ta.png)
 
 # Στατιστικά Μέτρα
