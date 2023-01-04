@@ -16,9 +16,11 @@ B)
 Η διαδικασία φαίνεται καλύτερα στο παρακάτω σύνδεσμο για το asciinema
 
 ## Κωδικοποίηση ή κρυπτογράφηση;
-
+![morse code](https://github.com/inf2021090/kafter-g/blob/main/crypto/images/morse.png)
 ## Τυχαίοι αριθμοί
 
 ## Ο αλγόριθμος του Καίσαρα
+
+![caeser](https://github.com/inf2021090/kafter-g/blob/main/crypto/images/caeser7.png)
 
 ## Χρήση αλγορίθμων κρυπτογράφησης
