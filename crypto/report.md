@@ -7,6 +7,14 @@
 Ο Αλγόριθμος one time pad παρέχει απόλυτη ασφάλεια καθώς χωρίς να γνωρίζει κανείς το κλειδί δεν μπορεί να γνωρίζει με ακρίβεια το αρχιό μυνυμα
 χωει;
 
+![](https://github.com/inf2021090/kafter-g/blob/main/crypto/images/fkey.png)
+
+|υπόμνημα|
+|---|
+|:large_blue_circle: = ψεύτικο plain text|
+|:red_circle: = το cipher text|
+||
+
 ## Ο αλγόριθμος AES
 ### Μέρος πρώτο: CRYTPTOOL2
 A)
